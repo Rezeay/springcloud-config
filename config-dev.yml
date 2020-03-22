@@ -1,3 +1,5 @@
+config:
+  info:"master branch,version=1"
 spring:
   application:
     name: cloud-payment-service
